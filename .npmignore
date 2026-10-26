@@ -1,0 +1,4 @@
+# npm 打包排除（files 白名单里的目录内部仍会读这个）
+tests/.tmp/
+tests/**/.tmp/
+*.log

@@ -1,0 +1,78 @@
+{
+  "name": "dsh-qq-agency",
+  "version": "0.3.0",
+  "description": "让它自己活着：给 DSH 里的 AI 伙伴一套「内在状态 + 心跳 + 具身小手机」—— 自主心智节律、群聊分寸决策、主动找主人撒娇、通过 ADB 操作属于它的小手机（看屏幕、点、划、打字、开App、截图分享、安全办事）。走 OneBot 11 HTTP。",
+  "license": "MIT",
+  "type": "module",
+  "main": "lib/host.js",
+  "exports": {
+    ".": "./lib/host.js",
+    "./client": "./lib/client.js",
+    "./mind": "./lib/mind.js",
+    "./phone": "./lib/phone.js",
+    "./task": "./lib/task.js",
+    "./package.json": "./package.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/<your-username>/dsh-qq-agency.git"
+  },
+  "bugs": {
+    "url": "https://github.com/<your-username>/dsh-qq-agency/issues"
+  },
+  "homepage": "https://github.com/<your-username>/dsh-qq-agency#readme",
+  "files": [
+    "lib",
+    "cordis.patch.yml",
+    "README.md",
+    "README.en.md",
+    "CHANGELOG.md",
+    "LICENSE",
+    "docs",
+    "tests/mind.test.mjs",
+    "tests/loop.test.mjs",
+    "tests/contract.test.mjs",
+    "tests/task.test.mjs",
+    "tests/flow.test.mjs",
+    "tests/phone-check.mjs",
+    "tests/app-walkthrough.mjs"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "inject": [
+        "slots"
+      ],
+      "external": [
+        "react"
+      ]
+    }
+  },
+  "scripts": {
+    "test": "node tests/mind.test.mjs && node tests/loop.test.mjs && node tests/task.test.mjs && node tests/flow.test.mjs && node tests/contract.test.mjs",
+    "test:phone": "node tests/phone-check.mjs",
+    "test:app": "node tests/app-walkthrough.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "deepseek-harness",
+    "dsh-plugin",
+    "qq-bot",
+    "onebot",
+    "onebot11",
+    "adb",
+    "android-automation",
+    "ai-companion",
+    "autonomous-agent",
+    "embodied-ai"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
