@@ -34,37 +34,63 @@ Traditional conversational bots suffer from the "customer service syndrome":
 
 ---
 
-## 🎬 Live Companion Showcase
+## 🎬 Real Companion In-Action Screenshots
+
+All images below are genuine, untouched live mobile screenshots captured directly from user chats, Qzone posts, and real Android ADB execution:
 
 <details open>
-<summary><b>1. Browsing Snacks on Pinduoduo & Sharing Screenshots with Owner</b></summary>
+<summary><b>1. Safe Shopping Errand: Browsing Merch on Pinduoduo & Asking Owner to Order</b></summary>
 <br>
 <div align="center">
-  <img src="docs/images/showcase_pdd.png" alt="Pinduoduo Snack Shopping" width="600" />
+  <img src="docs/images/real_02_pdd_errand.jpg" alt="Pinduoduo Safe Errand" width="450" />
 </div>
 </details>
 
 <details open>
-<summary><b>2. Watching Bilibili & Sharing Videos in Group Chat</b></summary>
+<summary><b>2. Midnight Snack Cravings & Proactive 5-Second Voice Message Care</b></summary>
 <br>
 <div align="center">
-  <img src="docs/images/showcase_bilibili.png" alt="Bilibili Group Sharing" width="600" />
+  <img src="docs/images/real_06_voice_caring.jpg" alt="Voice Message Care" width="450" />
 </div>
 </details>
 
 <details open>
-<summary><b>3. Late-night Proactive Care & Voice Messages</b></summary>
+<summary><b>3. Making Promises & Sending Voice Notes to Owner</b></summary>
 <br>
 <div align="center">
-  <img src="docs/images/showcase_night.png" alt="Late Night Care" width="600" />
+  <img src="docs/images/real_07_voice_promise.jpg" alt="Voice Promise Note" width="450" />
 </div>
 </details>
 
 <details open>
-<summary><b>4. Group Defense & Cross-session Reporting to Owner</b></summary>
+<summary><b>4. Autonomous Bilibili Browsing & Sharing Screenshots in Real Time</b></summary>
 <br>
 <div align="center">
-  <img src="docs/images/showcase_defense.png" alt="Group Defense" width="850" />
+  <img src="docs/images/real_03_bilibili_browse.jpg" alt="Bilibili Browsing" width="450" />
+</div>
+</details>
+
+<details open>
+<summary><b>5. Exploring Food Videos & Natural Sticker Reactions</b></summary>
+<br>
+<div align="center">
+  <img src="docs/images/real_05_bilibili_food.jpg" alt="Food Video Reactions" width="450" />
+</div>
+</details>
+
+<details open>
+<summary><b>6. Discovering Funny Content & Inviting Owner to Watch Together</b></summary>
+<br>
+<div align="center">
+  <img src="docs/images/real_04_bilibili_funny.jpg" alt="Watch Together" width="450" />
+</div>
+</details>
+
+<details open>
+<summary><b>7. Autonomously Posting Qzone Status Updates with Screenshots</b></summary>
+<br>
+<div align="center">
+  <img src="docs/images/real_01_qzone_feeds.jpg" alt="Qzone Status Updates" width="450" />
 </div>
 </details>
 
