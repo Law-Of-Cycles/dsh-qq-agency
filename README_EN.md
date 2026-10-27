@@ -34,6 +34,42 @@ Traditional conversational bots suffer from the "customer service syndrome":
 
 ---
 
+## 🎬 Live Companion Showcase
+
+<details open>
+<summary><b>1. Browsing Snacks on Pinduoduo & Sharing Screenshots with Owner</b></summary>
+<br>
+<div align="center">
+  <img src="docs/images/showcase_pdd.png" alt="Pinduoduo Snack Shopping" width="600" />
+</div>
+</details>
+
+<details open>
+<summary><b>2. Watching Bilibili & Sharing Videos in Group Chat</b></summary>
+<br>
+<div align="center">
+  <img src="docs/images/showcase_bilibili.png" alt="Bilibili Group Sharing" width="600" />
+</div>
+</details>
+
+<details open>
+<summary><b>3. Late-night Proactive Care & Voice Messages</b></summary>
+<br>
+<div align="center">
+  <img src="docs/images/showcase_night.png" alt="Late Night Care" width="600" />
+</div>
+</details>
+
+<details open>
+<summary><b>4. Group Defense & Cross-session Reporting to Owner</b></summary>
+<br>
+<div align="center">
+  <img src="docs/images/showcase_defense.png" alt="Group Defense" width="850" />
+</div>
+</details>
+
+---
+
 ## ✨ Key Features
 
 - **Dynamic Psychological State**: Modeled mathematically across four dimensions: Energy, Boredom, Longing, and Mood.
