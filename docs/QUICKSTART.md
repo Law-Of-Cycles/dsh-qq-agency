@@ -67,7 +67,7 @@ npm run test:phone
 
 1. **添加插件**：
    ```bash
-   dsh plugin --profile desktop add github:<你的用户名>/dsh-qq-agency
+   dsh plugin --profile desktop add github:Law-Of-Cycles/dsh-qq-agency
    ```
 2. **重启 DSH**；
 3. 打开 DSH 界面，点击左侧菜单进入 **设置 → 它自己 (dsh-qq-agency)**：

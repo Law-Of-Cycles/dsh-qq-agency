@@ -49,7 +49,7 @@ Traditional conversational bots suffer from the "customer service syndrome":
 ### 1. Install Plugin
 Add the repository to your DSH profile:
 ```bash
-dsh plugin --profile desktop add github:<your-username>/dsh-qq-agency
+dsh plugin --profile desktop add github:Law-Of-Cycles/dsh-qq-agency
 ```
 Restart DSH once.
 

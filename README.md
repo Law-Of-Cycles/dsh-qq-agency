@@ -140,7 +140,7 @@
 
 ```bash
 # 在 DSH 终端执行，或直接在 DSH 插件市场输入仓库地址
-dsh plugin --profile desktop add github:<你的用户名>/dsh-qq-agency
+dsh plugin --profile desktop add github:Law-Of-Cycles/dsh-qq-agency
 ```
 
 *装完后重启一次 DSH。*

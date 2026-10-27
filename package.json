@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/<your-username>/dsh-qq-agency.git"
+    "url": "https://github.com/Law-Of-Cycles/dsh-qq-agency.git"
   },
   "bugs": {
-    "url": "https://github.com/<your-username>/dsh-qq-agency/issues"
+    "url": "https://github.com/Law-Of-Cycles/dsh-qq-agency/issues"
   },
-  "homepage": "https://github.com/<your-username>/dsh-qq-agency#readme",
+  "homepage": "https://github.com/Law-Of-Cycles/dsh-qq-agency#readme",
   "files": [
     "lib",
     "cordis.patch.yml",
